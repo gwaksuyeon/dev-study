@@ -6,9 +6,7 @@ Rest API 호출시 React에서는 axios module 을 이용한다
 
 1. axios 설치
 
-   ```javascript
-   yarn add axios
-   ```
+   `yarn add axios`
 
 2.  모듈화를 위한 디렉토리 정리
 
