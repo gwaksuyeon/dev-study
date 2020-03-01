@@ -66,4 +66,4 @@ Rest API 호출시 React에서는 axios module 을 이용한다
 
 5.  결과
 
-   ![image-20200301180304041](D:\devStudy\image-20200301180304041.png)
+   ![image-20200301180304041](image-20200301180304041.png)
