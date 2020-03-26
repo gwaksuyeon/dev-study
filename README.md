@@ -4,4 +4,4 @@
 
 ### React
 
-react.js, typescript, redux, route, 관련 내용 정리
+react.js, typescript, redux 등 관련 내용 정리
