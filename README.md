@@ -4,4 +4,10 @@
 
 ### React
 
-react.js, typescript, redux 등 관련 내용 정리
+- react.js의 기초와 환경설정 방법
+
+### Typescript
+- typescript의 정의
+
+### Git
+- git-flow, git의 정의, 명령어
