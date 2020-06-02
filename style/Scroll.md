@@ -28,3 +28,11 @@
 
 - e.target.scrollTop === e.target.scrollHeight - e.target.clientHeight;
 
+
+
+### 외부 Scroll 막기
+
+- ```scss
+  document.body.style.overflow = 'hidden'; // scroll 막을 부분
+  document.body.removeAttribute('style');
+  ```
